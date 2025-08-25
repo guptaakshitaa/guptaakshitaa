@@ -26,5 +26,3 @@ Python, JavaScript, SQL, Tkinter, React, Node.js, Scikit-learn, SHAP, Monte Carl
 - ⛏️ **Mine Trace** – ML-based supply chain tracking
 
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=guptaakshitaa)](https://git.io/streak-stats)
