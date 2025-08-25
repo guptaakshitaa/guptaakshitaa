@@ -27,5 +27,4 @@ Python, JavaScript, SQL, Tkinter, React, Node.js, Scikit-learn, SHAP, Monte Carl
 
 ---
 
-## Let's Connect
-- LinkedIn: https://www.linkedin.com/in/akshita-gupta-67aa752ab/
+[![GitHub Streak](https://streak-stats.demolab.com?user=guptaakshitaa)](https://git.io/streak-stats)
