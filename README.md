@@ -1,6 +1,6 @@
 # Hi, I'm Akshita 👋
 
-**Undergraduate IT Student · Risk Analytics Intern · ML Engineer**
+**Undergraduate IT Student
 
 I build production-grade ML systems at the intersection of finance, AI, and real-world impact. Currently focused on credit risk modeling, quantitative finance, and deploying explainable AI in regulated environments.
 
