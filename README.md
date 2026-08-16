@@ -1,4 +1,4 @@
-# Hi, I'm Akshita 👋
+# Hi, I'm Akkshhita 👋
 
 **Undergraduate IT Student
 
